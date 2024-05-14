@@ -1,29 +1,49 @@
-# JS DOM - Activity - Random Color Generator
+# Random Color Generator
 
-## Overview
+This is a simple web application that generates random colors and displays them on the screen.
 
-This project is a Random Color Generator built using JavaScript DOM. It allows users to generate a random background color for a div element and display its RGB value.
+## Table of Contents
 
-## Preview
+- [Introduction](#introduction)
+- [Features](#features)
+- [Instructions](#instructions)
+- [Demo](#demo)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-![Random Color Generator Preview](preview.png)
+## Introduction
+
+The Random Color Generator is a small project demonstrating the use of JavaScript DOM manipulation to dynamically change the background color of a div element.
 
 ## Features
 
-- Users can generate a random background color by clicking the "Generate Color" button.
-- The generated color is applied to the background of a div element.
-- The RGB value of the generated color is displayed in a `<h2>` heading with the text "Generated Random Color is : rgb(value, value, value)".
+- Generates random colors with the click of a button.
+- Resets the color to default with another button click.
+- Displays the generated color in RGB format.
+
+## Instructions
+
+To use the Random Color Generator:
+
+1. Open `index.html` in your web browser.
+2. Click the "Generate Color" button to generate a random color.
+3. Click the "Reset Color" button to reset the color to default.
+
+## Demo
+
+[![Random Color Generator Preview](preview.png)](https://hardik-techie.github.io/Random-Color-Generator/)
 
 ## Technologies Used
 
 - HTML
 - CSS
-- JavaScript DOM
+- JavaScript
 
-## Usage
+## Contributing
 
-1. Open the `index.html` file in a web browser.
-2. Click the "Generate Color" button to generate a random color.
-3. The background color of the div will change to the generated color.
-4. The RGB value of the generated color will be displayed in a `<h2>` heading below the button.
+Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE.txt).
