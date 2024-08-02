@@ -32,7 +32,7 @@ To use the Random Color Generator:
 
 ## Demo
 
-[![Random Color Generator Preview](preview.png)](https://hardik-techie.github.io/Random-Color-Generator/)
+[![Random Color Generator Preview](preview.png)](https://hardiksrivatavaa.github.io/Random-Color-Generator/)
 
 ## Technologies Used
 
